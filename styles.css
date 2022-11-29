@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.wrap1 img {
+  display: block;
+  margin: 10px 0 0 5px;
+}
+.wrapper {
+  display: flex;
+}
+.wrap2 img {
+  margin-left: 150px;
+  margin-top: 50px;
+}
